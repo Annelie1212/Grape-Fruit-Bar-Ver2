@@ -1,0 +1,45 @@
+            GRAPE FRUIT BAR
+            
+            Grape Fruit Bar             
+        Address: Beachstreet 10         
+           12 123 SunsetCity            
+           +81 70-11 111 111            
+
+Cashier:1      RegisterNr:1   SerialNr:0
+Date:2024-11-22            Time:19:09:27
+----------------------------------------
+coconut          2*  15,00   Pcs=  30,00
+tropical juice  10*  55,00   Pcs= 550,00
+----------------------------------------
+TOTAL SUM:                        580,00
+
+VAT       Amount           Net     Gross
+25        145,00        580,00    725,00
+Payment Method:                     VISA
+
+     Thank you! Please come again!      
+
+
+________________________________________
+            GRAPE FRUIT BAR
+            
+            Grape Fruit Bar             
+        Address: Beachstreet 10         
+           12 123 SunsetCity            
+           +81 70-11 111 111            
+
+Cashier:1      RegisterNr:1   SerialNr:1
+Date:2024-11-22            Time:19:10:35
+----------------------------------------
+pineapple        1*  15,00   Pcs=  15,00
+----------------------------------------
+TOTAL SUM:                         15,00
+
+VAT       Amount           Net     Gross
+25        3,75           15,00     18,75
+Payment Method:                   Klarna
+
+     Thank you! Please come again!      
+
+
+________________________________________
